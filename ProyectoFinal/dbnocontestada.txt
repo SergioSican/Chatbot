@@ -1,0 +1,4 @@
+﻿
+"Que vende"
+"Que formas de pago permiten"
+"Que forma de permiten"

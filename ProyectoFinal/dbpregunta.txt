@@ -1,0 +1,56 @@
+{"id":1,"pregunta":"Hola","Respuesta":"Hola En que te puedo ayudar"}
+{"id":2,"pregunta":"hola","Respuesta":"Hola En que te puedo ayudar"}
+{"id":3,"pregunta":"Que puedo hacer","Respuesta":"Puedes comprar consultar ver ordenes cancelar pedidos"}
+{"id":4,"pregunta":"No Entiendo","Respuesta":"Disculpa no entiendo tu pregunta"}
+{"id":5,"pregunta":"Buen Dia","Respuesta":"Buen Dia En que te puedo ayudar"}
+{"id":6,"pregunta":"Como estas","Respuesta":"Bien gracias y Tu"}
+{"id":7,"pregunta":"Como te llamas","Respuesta":"Me llamo Chatbot de Restaurante del Grupo 1"}
+{"id":8,"pregunta":"Cual es tu proposito","Respuesta":"Es brindarte una asistencia para pedidos consultar de nuestro restaurante"}
+{"id":9,"pregunta":"Bien gracias","Respuesta":"Que me alegro En que te puedo ayudar"}
+{"id":10,"pregunta":"Gracias","Respuesta":"De nada"}
+{"id":11,"pregunta":"Cerrar Sesion","Respuesta":"Espere"}
+{"id":12,"pregunta":"Hola Me puedes Asistir","Respuesta":"Hola claro En que te puedo ayudar"}
+{"id":13,"pregunta":"Hola Como estas","Respuesta":"Hola estoy bien y tu"}
+{"id":14,"pregunta":"Cual es tu nombre","Respuesta":"Mi nombre es Chatbot de Restaurante de Grupo 1"}
+{"id":15,"pregunta":"como te llamas","Respuesta":"Mi nombre es Chatbot de Restaurante de Grupo 1"}
+{"id":16,"pregunta":"Hola como esta", "Respuesta":"Bien gracias En que te puedo ayudar"}
+{"id":17,"pregunta":"Cual es tu proposito","Respuesta":"Es brindarte una asistencia para pedidos consultas de nuestro restaurante"}
+{"id":18,"pregunta":"Bien gracias", "Respuesta":"Que me alegro En que te puedo ayudar"}
+{"id":19,"pregunta":"Gracias", "Respuesta":"De nada"}
+{"id":20,"pregunta":"Que tal dia", "Respuesta":"Bien gracias En que te puedo ayudar"}
+{"id":21,"pregunta":"Que venden", "Respuesta":"Comida de alta calidad a precios economicos"}
+{"id":22,"pregunta":"Venden postres", "Respuesta":"Hola si vendemos postres que encontraras desde Q10.00 hasta Q50.00"}
+{"id":23,"pregunta":"Se puede pagar con cheque", "Respuesta":"Actualmente no disponemos de pago con cheque"}
+{"id":24,"pregunta":"Como te Llamas", "Respuesta":"Mi nombre es Chatbot de Restaurante del Grupo 1"}
+{"id":25,"pregunta":"Cual es tu Proposito","Respuesta":"Es brindarte una asistencia para pedidos consultas de nuestro Restaurante"}
+{"id":26,"pregunta":"Que grupo te hizo","Respuesta":"Grupo 1"}
+{"id":27,"pregunta":"Bien","Respuesta":"Que me alegro En que te puedo ayudar"}
+{"id":28,"pregunta":"como estas", "Respuesta":"Bien gracias por pregunta En que te puedo ayudar"}
+{"id":29,"pregunta":"Me puedes decir tu nombre","Respuesta":"Claro Mi nombre es Chatbot de Restaurante del Grupo 1"}
+{"id":30,"pregunta":"Que bebidas venden","Respuesta":"Vendemos Gaseosas Refrescos y bebidas calientes"}
+{"id":31,"pregunta":"Que venden","Respuesta":"Vendemos Comida de alta Calidad a precios economicos"}
+{"id":32,"pregunta":"Buenas Tardes","Respuesta":"Buenas Tardes En que te puedo ayudar"}
+{"id":33,"pregunta":"Hola Chatbot", "Respuesta":"Hola En que te puedo ayudar"}
+{"id":34,"pregunta":"Que tipo de comida venden", "Respuesta":"Hamburguesas Papas Fritas entre otros"}
+{"id":35,"pregunta":"Quiero ver mis pedidos", "Respuesta":"Puedes ver tus pedidos marcando al 1234-5678"}
+{"id":36,"pregunta":"Quiero comprar", "Respuesta":"Puedes comprar marcando al 1234-5678 o dirigiendote a nuestras sucursales en Zona 1, Zona 2, Zona 5"}
+{"id":37,"pregunta":"Quiero cancelar el pedido", "Respuesta":"Puedes cancelar tus ordenes marcando al 1234-5678 o dirigiendote a nuestras sucursales en Zona 1, Zona 2, Zona 5"}
+{"id":38,"pregunta":"Quiero consultar", "Respuesta":"Puedes consultar marcando al 1234-5678 o dirigiendote a nuestras sucursales en Zona 1, Zona 2, Zona 5"}
+{"id":39,"pregunta":"Quiero comprar al credito", "Respuesta":"Puedes comprar al efectivo en nuestras tiendas te invitamos a marcar al 1234-5678 o dirigiendote a nuestras sucursales en Zona 1, Zona 2 o Zona 5"}
+{"id":40,"pregunta":"Quiero comprar al Efectivo", "Respuesta":"Escribe Quiero comprar el menu un Efectivo"}
+{"id":41,"pregunta":"Quiero comprar al debito", "Respuesta":"Escribe Quiero comprar el menu un Al Debito"}
+{"id":42,"pregunta":"Adios", "Respuesta":"Hasta Pronto"}
+{"id":43,"pregunta":"gracias", "Respuesta":"De nada"}
+{"id":44,"pregunta":"adios", "Respuesta":"Hasta la proxima"}
+{"id":45,"pregunta":"Gracias por Atenderme", "Respuesta":"De nada fue un gusto"}
+{"id":46,"pregunta":"Como te va", "Respuesta":"Bien gracias en que te puedo ayudar"}
+{"id":47,"pregunta":"Te lo agradezco", "Respuesta":"Fue un placer"}
+{"id":48,"pregunta":"Como son las formas de pago", "Respuesta":"Son al credito, debito y efectivo"}
+{"id":49,"pregunta":"Quiero consultar un menu", "Respuesta":"Puedes comprar marcando al 1234-5678 o dirigiendote a nuestras sucursales en Zona 1, Zona 2, Zona 5"}
+{"id":50,"pregunta":"Que moneda de pago permiten", "Respuesta":"Hola Se puede pagar solamente con Quetzales"}
+{"id":51,"pregunta":"Se puede pagar al efectivo", "Respuesta":"Claro se puede pagar al efectivo"}
+{"id":52,"pregunta":"Se puede pagar al credito", "Respuesta":"Claro se puede pagar al credito y tambien al debito"}
+{"id":53,"pregunta":"Con que moneda puedo pagar", "Respuesta":"Con Quetzales"}
+{"id":54,"pregunta":"Cuanto se tardan en venir", "Respuesta":"Nos tardamos alrededor de 30 minutos mas envio"}
+{"id":55,"pregunta":"Fue un gusto conocerte", "Respuesta":"Igualmente"}
+{"id":56,"pregunta":"Mi orden no ha llegado", "Respuesta":"Claro Escribe Quiero ver mis pedidos"}
