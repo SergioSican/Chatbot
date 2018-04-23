@@ -1,7 +1,6 @@
 
 package com.controlador;
 
-
 import com.modelo.Preguntas;
 import com.modelo.DbData;
 import java.io.BufferedReader;//adiocional
